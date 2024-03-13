@@ -527,6 +527,10 @@ details[open] summary::marker {
     color: bisque;
 }
 
+.contact a{
+    text-decoration: none;
+}
+
 #instagram {
     display: inline-block;
     vertical-align: top;
